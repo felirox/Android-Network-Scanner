@@ -8,7 +8,7 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = "tej.wifitoolslib"
+                groupId = "niran.wifitoolslib"
                 artifactId = "lib"
                 version = '1.0.5'
             }

@@ -6,7 +6,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "tej.wifitools"
+        applicationId "niran.wifitools"
         minSdk 19
         targetSdk 31
         versionCode 1
