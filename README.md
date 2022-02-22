@@ -1,6 +1,9 @@
 # Network Scanning Application
 ## _Bseline App developed for showing the implentation of network scanning in Android_
 
+## Download
+##### The Application APK file can be [downloaded from here](https://github.com/felirox/Android-Network-Scanner/releases/tag/v1.0)
+
 ## Development:
 
 - Kotlin along with Android Studio was utilized for developing. 
@@ -43,9 +46,6 @@ Once the setup is completed, do not go for creating a new app. Instead, clone th
 The Gradle Build will start executing once you open the project. 
 Connect your device Wirelessly or uaing a USB cable, with USB debugging mode enabled. 
 You can run the app to view the preview on your Physical or Virtual phone.
-
-## Download
-##### The Application APK file can be [downloaded from here]()
 
 ### References
 Todo
