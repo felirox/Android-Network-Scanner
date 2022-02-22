@@ -57,6 +57,8 @@ You can run the app to view the preview on your Physical or Virtual phone.
 #### Running of Application in a Smart Phone - 
 <img height="750" alt="Development-AS" src="https://user-images.githubusercontent.com/52323747/155201786-c1129763-cbb8-4976-af34-781b4e294872.jpeg">
 
+### Known Bugs: 
+Mac Address and Vendor Name do not show up much times. It might be because of the limtations/restrictions by the router. Additional research and clarity on the same is required.
 
 
 ### References
